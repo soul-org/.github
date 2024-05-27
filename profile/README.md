@@ -4,13 +4,13 @@
 ### Inspiration
 The inspiration for SOUL (Saving Oriented Universal Lottery) emerged from the desire to create a financial product that merges the excitement of a lottery with the financial benefits of saving and staking. Traditional lotteries often encourage people to spend money on a chance to win big, but without any returns if they lose. We wanted to flip this concept by integrating lossless saving, ensuring that participants never lose their principal amount while still having a chance to win rewards. This approach aims to provide small-scale crypto holders with an innovative way to grow their assets while engaging in a fun and rewarding experience.
 
- ![SOUL Mind Map](https://github.com/soul-org/documents/blob/main/diagrams/SOULMindMap.png)
- ![SOUL Features](https://github.com/soul-org/documents/blob/main/diagrams/SOULFeatureMindMap.png)
+   <img src="https://github.com/soul-org/documents/blob/main/diagrams/SOULMindMap.png" alt="SOUL Mind Map"/>
+   <img src="https://github.com/soul-org/documents/blob/main/diagrams/SOULFeatureMindMap.png" alt="SOUL Feature Map"/>
 
 ### What It Does
 SOUL is a lossless savings product integrated with a lottery mechanism. Here's how it works:
 
-![Use Cases](https://github.com/soul-org/documents/blob/main/diagrams/SOULUserWorkFlow.png)
+   <img src="https://github.com/soul-org/documents/blob/main/diagrams/SOULUserWorkFlow.png" alt="SOUL Use Cases"/>
 
 1. **Deposits and Pooling**:
     - Participants deposit their cryptocurrency assets into a communal pool. These deposits are then staked to earn rewards over time.
@@ -49,7 +49,7 @@ Participating in this hackathon has been an incredible learning experience. Here
 ## How We Built the Project
 
 Building the SOUL (Saving Oriented Universal Lottery) Platform involved several critical stages, from team formation to deployment. Here's a detailed account of our process:
-![Workflow](https://github.com/soul-org/documents/blob/main/diagrams/SOULSequenceDiagram.png)
+   <img src="https://github.com/soul-org/documents/blob/main/diagrams/SOULSequenceDiagram.png" alt="SOUL Workflow"/>
 
 ### Team Formation and Planning
 
@@ -102,7 +102,7 @@ To manage our project efficiently, we adopted the SCRUM methodology, conducting 
       
  ### Staking Analytics API
 
-![Staking Mechanism](https://github.com/soul-org/documents/blob/main/diagrams/SOULCrossChainCCIPStaking.png)
+   <img src="https://github.com/soul-org/documents/blob/main/diagrams/SOULCrossChainCCIPStaking.png" alt="SOUL Staking Workflow"/>
 
 #### REST APIs:
 
