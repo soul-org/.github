@@ -4,8 +4,8 @@
 ### Inspiration
 The inspiration for SOUL (Saving Oriented Universal Lottery) emerged from the desire to create a financial product that merges the excitement of a lottery with the financial benefits of saving and staking. Traditional lotteries often encourage people to spend money on a chance to win big, but without any returns if they lose. We wanted to flip this concept by integrating lossless saving, ensuring that participants never lose their principal amount while still having a chance to win rewards. This approach aims to provide small-scale crypto holders with an innovative way to grow their assets while engaging in a fun and rewarding experience.
 
-- ![SOUL Mind Map](https://github.com/soul-org/documents/blob/main/diagrams/SOULMindMap.png)
-- ![SOUL Features](https://github.com/soul-org/documents/blob/main/diagrams/SOULFeatureMindMap.png)
+ ![SOUL Mind Map](https://github.com/soul-org/documents/blob/main/diagrams/SOULMindMap.png)
+ ![SOUL Features](https://github.com/soul-org/documents/blob/main/diagrams/SOULFeatureMindMap.png)
 
 ### What It Does
 SOUL is a lossless savings product integrated with a lottery mechanism. Here's how it works:
