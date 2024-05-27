@@ -143,7 +143,6 @@ We are incredibly proud of several key accomplishments that set SOUL apart:
 
 - **Simplicity of the idea**: We think using staking to provide lottery rewards are one of its kind innovation in the space of web3 defi space.
 - **Support for the native assets**
-- **Low 
 
 These accomplishments reflect our dedication to pioneering solutions and setting new standards in the digital art marketplace.
 
@@ -151,30 +150,28 @@ These accomplishments reflect our dedication to pioneering solutions and setting
 
 SOUL represents a novel fusion of savings and lottery systems, providing a fun yet financially prudent product for crypto holders. Our journey in developing SOUL has equipped us with valuable insights into smart contract development, randomness, staking, and user-centric design. We are excited about the potential of SOUL to revolutionize how people perceive and engage with lotteries and savings in the crypto space.
 
-## What's next for SOUL (Saving Oriented Universal Lottery) Platform
+### What's Next for SOUL (Saving Oriented Universal Lottery) Platform
 
-Our vision for SOUL extends beyond the current capabilities. Moving forward, we aim to further explore and enhance the lottery and staking features. Here are our key focus areas:
+Our vision for SOUL extends beyond its current capabilities. Moving forward, we aim to further enhance and expand our lottery and staking features. Here are our key focus areas:
 
-1. **Expanding to other stakable chains**: 
-    - We currently only support two lottery pools, polygon and avalanche, on there respective native chains.
-    - We will extend our lottery pool to all the other stakable chains. 
+1. **Expanding to Other Stakable Chains**:
+    - Currently, we support lottery pools on Polygon and Avalanche. Our goal is to extend our lottery pools to include all other stakable chains, broadening the opportunities for our users.
 
-2. **Reducing and eliminating fees**:
-    - In the current platform, we take a percentage of the lottery rewards as platform fee, we will look into running our own staking nodes to control the platform fee
-    - Gasless transaction to further eliminate the platform fees
-    - Reduce lock and unlock period of the staked tokens using our own staking nodes. 
+2. **Reducing and Eliminating Fees**:
+    - We currently take a percentage of the lottery rewards as a platform fee. To reduce and potentially eliminate these fees, we are exploring the option of running our own staking nodes.
+    - Implementing gasless transactions will further help in reducing platform fees.
+    - By using our own staking nodes, we can also minimize the lock and unlock periods for staked tokens, providing more flexibility to our users.
 
-4. **Liquid Staking**:
-    - We plan to provide users an ability for liquid staking so that there assets are not locked in.
-    - This can also enable the users to be eligible for airdrops
+3. **Introducing Liquid Staking**:
+    - We plan to offer liquid staking options so users' assets are not locked in, allowing them to maintain liquidity.
+    - This will also make users eligible for potential airdrops, adding more value to their participation.
 
-5. **DAO**: 
-    - Currently, the SOUL organisation decide which lottery pool to host of the platform. With DAO, we want our SOUL community to elect whcih lottery pools they want to host
-    - Which validators they want to stake with?
-    - Which assets they want SOUL to work with?
+4. **Establishing a DAO (Decentralized Autonomous Organization)**:
+    - Currently, the SOUL organization decides which lottery pools to host on the platform. With a DAO, we aim to empower our community to make these decisions.
+    - The community will be able to elect which lottery pools to host, choose which validators to stake with, and decide on the assets SOUL should support.
 
-By pursuing these goals, we aim to solidify SOUL's position as a leader in the loss-less saving product offerings.
-
+By pursuing these goals, we aim to solidify SOUL's position as a leader in lossless saving products, offering unparalleled opportunities and benefits to our users.
+--
 Thank you for considering our submission for the Chainlink hackathon. We are eager to continue refining SOUL and exploring new possibilities to enhance its functionality and reach.
 
 
