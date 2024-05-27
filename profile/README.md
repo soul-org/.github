@@ -10,6 +10,8 @@ The inspiration for SOUL (Saving Oriented Universal Lottery) emerged from the de
 ### What It Does
 SOUL is a lossless savings product integrated with a lottery mechanism. Here's how it works:
 
+![Use Cases](https://github.com/soul-org/documents/blob/main/diagrams/SOULUserWorkFlow.png)
+
 1. **Deposits and Pooling**:
     - Participants deposit their cryptocurrency assets into a communal pool. These deposits are then staked to earn rewards over time.
 
@@ -137,9 +139,11 @@ Despite these challenges, our team's dedication and resilience enabled us to ove
 
 ### Accomplishments That We're Proud Of
 
-We are incredibly proud of several key accomplishments that set VeDA apart:
+We are incredibly proud of several key accomplishments that set SOUL apart:
 
 - **Simplicity of the idea**: We think using staking to provide lottery rewards are one of its kind innovation in the space of web3 defi space.
+- **Support for the native assets**
+- **Low 
 
 These accomplishments reflect our dedication to pioneering solutions and setting new standards in the digital art marketplace.
 
@@ -164,12 +168,12 @@ Our vision for SOUL extends beyond the current capabilities. Moving forward, we 
     - We 
 
 3. **Community Engagement and Education**: 
-    - We plan to engage with the web3 and digital art communities through educational initiatives and workshops. By raising awareness about the importance of copyright protection and the tools available through VeDA, we hope to foster a more informed and proactive community.
+    - We plan to engage with the web3 and digital art communities through educational initiatives and workshops. By raising awareness about the importance of copyright protection and the tools available through SOUL, we hope to foster a more informed and proactive community.
 
 4. **Technological Advancements**:
     - Continuous improvement of our platform's technology is crucial. We will focus on enhancing our verification algorithms, incorporating advanced AI capabilities, and ensuring our platform remains at the forefront of innovation in the digital art space.
 
-By pursuing these goals, we aim to solidify VeDA's position as a leader in the digital art marketplace, providing unparalleled security and peace of mind for creators and buyers alike.
+By pursuing these goals, we aim to solidify SOUL's position as a leader in the digital art marketplace, providing unparalleled security and peace of mind for creators and buyers alike.
 
 Thank you for considering our submission for the Chainlink hackathon. We are eager to continue refining SOUL and exploring new possibilities to enhance its functionality and reach.
 
