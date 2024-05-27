@@ -171,7 +171,7 @@ Our vision for SOUL extends beyond its current capabilities. Moving forward, we 
     - The community will be able to elect which lottery pools to host, choose which validators to stake with, and decide on the assets SOUL should support.
 
 By pursuing these goals, we aim to solidify SOUL's position as a leader in lossless saving products, offering unparalleled opportunities and benefits to our users.
---
+
 Thank you for considering our submission for the Chainlink hackathon. We are eager to continue refining SOUL and exploring new possibilities to enhance its functionality and reach.
 
 
