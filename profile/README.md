@@ -165,15 +165,15 @@ Our vision for SOUL extends beyond the current capabilities. Moving forward, we 
     - Reduce lock and unlock period of the staked tokens using our own staking nodes. 
 
 4. **Liquid Staking**:
-    - We 
+    - We plan to provide users an ability for liquid staking so that there assets are not locked in.
+    - This can also enable the users to be eligible for airdrops
 
-3. **Community Engagement and Education**: 
-    - We plan to engage with the web3 and digital art communities through educational initiatives and workshops. By raising awareness about the importance of copyright protection and the tools available through SOUL, we hope to foster a more informed and proactive community.
+5. **DAO**: 
+    - Currently, the SOUL organisation decide which lottery pool to host of the platform. With DAO, we want our SOUL community to elect whcih lottery pools they want to host
+    - Which validators they want to stake with?
+    - Which assets they want SOUL to work with?
 
-4. **Technological Advancements**:
-    - Continuous improvement of our platform's technology is crucial. We will focus on enhancing our verification algorithms, incorporating advanced AI capabilities, and ensuring our platform remains at the forefront of innovation in the digital art space.
-
-By pursuing these goals, we aim to solidify SOUL's position as a leader in the digital art marketplace, providing unparalleled security and peace of mind for creators and buyers alike.
+By pursuing these goals, we aim to solidify SOUL's position as a leader in the loss-less saving product offerings.
 
 Thank you for considering our submission for the Chainlink hackathon. We are eager to continue refining SOUL and exploring new possibilities to enhance its functionality and reach.
 
